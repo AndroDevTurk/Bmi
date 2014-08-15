@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vki</string>
+    <string name="bmi">Vücut Kitle İndeksi(VKİ)</string>
+    <string name="boy">Boyunuz</string>
+    <string name="kilo">Kilonuz</string>
+    <string name="vki">VKİ</string>
+    <string name="cal">Hesapla</string>
+
+    <string name="siz">Vücut Kitle İndeksinizin Tanımı :</string>
+    <string name="siz1">Zayıf</string>
+    <string name="siz2">Normal</string>
+    <string name="siz3">Kilolu</string>
+    <string name="siz4">Obez(Çok Kilolu)</string>
+    <string name="siz5">Obez(Aşırı Kilolu)</string>
+
+    <string name="ideal">İdeal Kilonuz : Erkek  ve     Kadın için</string>
+    <string name="not"> Dünya Sağlık Örgütü(WHO) nün standarlarına göre belirlenmiş bir derecelendirmedir.Unutulmaması gereken nokta ise Kasların Yağlara göre daha ağır basmasıdır.Yani eğer aşırı kaslıysanız olduğunuzdan daha zayıf gözükebilirsiniz.Çok Yağınızın olduğuna inanmıyorsanız kilo vermenize gerek yoktur</string>
+
+</resources>
