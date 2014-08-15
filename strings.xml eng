@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bmi</string>
+    <string name="bmi">Body Mass Index(BMI)</string>
+    <string name="boy">Height</string>
+    <string name="kilo">Weight</string>
+    <string name="vki">BMI</string>
+    <string name="cal">Calculate</string>
+
+    <string name="siz">Your Body Mass Index :</string>
+    <string name="siz1">Thin</string>
+    <string name="siz2">Normal</string>
+    <string name="siz3">Overweight</string>
+    <string name="siz4">Obese</string>
+    <string name="siz5">Morbid</string>
+
+    <string name="ideal">Your Ideal Weight  : Male  ,  Female</string>
+    <string name="not"> We use to WHO(World Health Organisation) decument.</string>
+
+</resources>
